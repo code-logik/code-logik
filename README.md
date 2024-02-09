@@ -1,7 +1,7 @@
 # About Me
 
 
-Code-Logik is not only my GitHub username but also the name of my new website and potentially a future company.
+Code-Logik is my GitHub username and the name of my new website. It may also become a side gig in the future.
 
 Here are a few things about me:
 
