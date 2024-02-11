@@ -2,7 +2,7 @@
 
 
 Code-Logik is my GitHub username and the website where I will showcase my future coding projects.  
-<a href="https://www.code-logik.com" target="_blank">www.code-logik.com</a>  
+[www.code-logik.com](https://www.code-logik.com)  
 
 Here are a few things about me:
 
