@@ -35,6 +35,7 @@ Languages and Tools:
 - [![Static Badge](https://img.shields.io/badge/XAML-%23FFFFFF?style=flat&logo=xaml&logoColor=%23FFFFFF&labelColor=%23111111&color=%230C54C2)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/xaml-in-wpf?view=netframeworkdesktop-4.8)
 - [![Static Badge](https://img.shields.io/badge/Adobe_Photoshop-white?style=flat&logo=adobephotoshop&logoColor=%23FFFFFF&labelColor=%23111111&color=%2331A8FF)](https://www.adobe.com/products/photoshop.html)
 - [![Static Badge](https://img.shields.io/badge/Microsoft_PowerPoint-white?style=flat&logo=microsoftpowerpoint&logoColor=%23FFFFFF&labelColor=%23111111&color=%23B7472A)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+- [![Static Badge](https://img.shields.io/badge/Microsoft_SQL_Server-white?style=flat&logo=microsoftsqlserver&logoColor=%23FFFFFF&labelColor=%23111111&color=%23CC2927)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 - [![Static Badge](https://img.shields.io/badge/Microsoft_Word-FFFFFF?style=flat&logo=microsoftword&logoColor=%23FFFFFF&labelColor=%23111111&color=%232B579A)](https://www.microsoft.com/en-us/microsoft-365/word)
 - [![Static Badge](https://img.shields.io/badge/Visual_Studio_2022-FFFFFF?style=flat&logo=visualstudio&logoColor=%23FFFFFF&labelColor=%23111111&color=%235C2D91)](https://visualstudio.microsoft.com/)
 - [![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-white?style=flat&logo=visualstudiocode&logoColor=%23FFFFFF&labelColor=%23111111&color=%23007ACC)](https://code.visualstudio.com/)
