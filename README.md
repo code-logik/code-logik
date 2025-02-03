@@ -10,10 +10,18 @@ Bachelor of Science in Computer Science
 <br>
 
 Here are a few things about me:
+<br>
 
-- 📚 Learning Python
-- 🔍 Seeking Employment
-- 🛠️ Working on Project Portfolio
+Professional
+
+- 💻 Software Programmer / IT Specialist
+- 🏢 H2 Compressors, LLC
+- 📧 marks@h2compressors.co
+<br>
+
+Personal
+
+- 🛠️ Working on Code-Logik Projects Portfolio
 - 📧 mark.sarasua@code-logik.com
 - 🌐 www.code-logik.com
 - ⚡ Trout Angler and Kickboxing Enthusiast
