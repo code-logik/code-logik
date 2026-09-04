@@ -1,51 +1,90 @@
-___
+# Mark Sarasua, Jr.
 
-# About Me
+### Software Engineer · IT Specialist · Systems Integration
 
+I build and support software and infrastructure that connect applications, cloud services, networks, APIs, databases, and industrial systems.
 
-Mark Sarasua, Jr.  
-Northeastern State University  
-Bachelor of Science in Computer Science  
-*cum laude*  
-<br>
+My work spans software engineering, systems administration, cloud and API integration, networking, cybersecurity, automation, and edge computing. I am particularly interested in solving problems that sit between software and infrastructure, especially where reliable applications have to communicate securely with real-world systems.  
 
-Here are a few things about me:
-<br>
+## Current Focus
 
-Professional
+- Artificial intelligence and agentic AI development
+- Enterprise AI integration and automation
+- API and cloud architecture
+- Software engineering and systems integration
+- Linux and Windows infrastructure
+- Networking and security
+- Edge and industrial computing
 
-- 💻 Software Programmer / IT Specialist
-- 🏢 H2 Compressors, LLC
-- 📧 marks@h2compressors.co
-<br>
+I am currently expanding my AI engineering capabilities through Microsoft and PMI certification paths covering AI fundamentals, AI project management, generative AI, and AI agents.
 
-Personal
+## Technologies & Tools  
 
-- 🛠️ Working on Code-Logik Projects Portfolio
-- 📧 mark.sarasua@code-logik.com
-- 🌐 www.code-logik.com
-- ⚡ Trout Angler and Kickboxing Enthusiast
-- 💬 Ask me about Jesus!
-<br>
+These are technologies I currently work with, have practical exposure to, or am actively developing my skills in through professional projects, labs, and independent learning.  
 
-Languages and Tools:  
+### Languages & Development
 
-- [![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=flat&logo=cplusplus&logoColor=%23FFFFFF&labelColor=%23111111&color=%2300599C)](https://learn.microsoft.com/en-us/cpp/)
-- [![Static Badge](https://img.shields.io/badge/C%23-FFFFFF?style=flat&logo=csharp&logoColor=%23FFFFFF&labelColor=%23111111&color=%23512BD4)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- [![Static Badge](https://img.shields.io/badge/CSS-white?style=flat&logo=css3&logoColor=%23FFFFFF&labelColor=%23111111&color=%231572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
-- [![Static Badge](https://img.shields.io/badge/DRAW.IO-white?style=flat&logo=diagramsdotnet&logoColor=%23FFFFFF&labelColor=%23111111&color=%23F08705)](https://www.drawio.com/)
-- [![Static Badge](https://img.shields.io/badge/HTML-white?style=flat&logo=html5&logoColor=%23FFFFFF&labelColor=%23111111&color=%23E34F26)](https://html.spec.whatwg.org/)
-- [![Static Badge](https://img.shields.io/badge/JSON-FFFFFF?style=flat&logo=json&logoColor=%23FFFFFF&labelColor=%23111111&color=%23FAF0E6)](https://www.json.org/json-en.html)
-- [![Static Badge](https://img.shields.io/badge/JAVA-white?style=flat&logo=openjdk&logoColor=%23FFFFFF&labelColor=%23111111&color=%23ED8B00)](https://www.oracle.com/java/)
-- [![Static Badge](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=%23FFFFFF&labelColor=%23111111&color=%23F7DF1E)](https://developer.oracle.com/languages/javascript.html)
-- [![Static Badge](https://img.shields.io/badge/Markdown-FFFFFF?style=flat&logo=markdown&logoColor=%23FFFFFF&labelColor=%23111111&color=%23499BEA)](https://commonmark.org/)
-- [![Static Badge](https://img.shields.io/badge/.NET_Framework_4.7.2-white?style=flat&logo=dotnet&logoColor=%23FFFFFF&labelColor=%23111111&color=%23512BD4)](https://dotnet.microsoft.com/)
-- [![Static Badge](https://img.shields.io/badge/XAML-%23FFFFFF?style=flat&logo=xaml&logoColor=%23FFFFFF&labelColor=%23111111&color=%230C54C2)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/xaml-in-wpf?view=netframeworkdesktop-4.8)
-- [![Static Badge](https://img.shields.io/badge/Adobe_Photoshop-white?style=flat&logo=adobephotoshop&logoColor=%23FFFFFF&labelColor=%23111111&color=%2331A8FF)](https://www.adobe.com/products/photoshop.html)
-- [![Static Badge](https://img.shields.io/badge/Microsoft_PowerPoint-white?style=flat&logo=microsoftpowerpoint&logoColor=%23FFFFFF&labelColor=%23111111&color=%23B7472A)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
-- [![Static Badge](https://img.shields.io/badge/Microsoft_SQL_Server-white?style=flat&logo=microsoftsqlserver&logoColor=%23FFFFFF&labelColor=%23111111&color=%23CC2927)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
-- [![Static Badge](https://img.shields.io/badge/Microsoft_Word-FFFFFF?style=flat&logo=microsoftword&logoColor=%23FFFFFF&labelColor=%23111111&color=%232B579A)](https://www.microsoft.com/en-us/microsoft-365/word)
-- [![Static Badge](https://img.shields.io/badge/Visual_Studio_2022-FFFFFF?style=flat&logo=visualstudio&logoColor=%23FFFFFF&labelColor=%23111111&color=%235C2D91)](https://visualstudio.microsoft.com/)
-- [![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-white?style=flat&logo=visualstudiocode&logoColor=%23FFFFFF&labelColor=%23111111&color=%23007ACC)](https://code.visualstudio.com/)
+`C#` · `.NET` · `Python` · `SQL` · `PowerShell` · `Bash`
 
-___
+### Cloud & APIs
+
+`AWS` · `Azure` · `REST APIs` · `MQTT` · `JSON` · `mTLS`
+
+### Systems & Infrastructure
+
+`Linux` · `Windows` · `NGINX` · `PostgreSQL` · `Git`
+
+### Networking & Security
+
+`TCP/IP` · `Firewalls` · `VPN` · `SSH` · `TLS/mTLS` · `Network Segmentation`
+
+### AI & Agentic Systems
+
+`Microsoft Foundry` · `Generative AI` · `RAG` · `AI Agents` · `Tool Calling` · `MCP`
+
+## Selected Work
+
+### Enterprise AI Agent
+
+**In development**
+
+An enterprise-focused AI agent portfolio project incorporating grounded knowledge retrieval, external tools and APIs, authentication, authorization, audit logging, evaluation, guardrails, human approval workflows, and multi-agent orchestration.
+
+This project is being developed alongside my Microsoft AI and PMI AI project-management certification work.
+
+### The Willow Tree OMS
+
+A complete C#/.NET order-management system developed through the full software development lifecycle.
+
+The project includes:
+
+- Requirements engineering
+- Risk management
+- UML and system modeling
+- Agile development
+- C#/.NET implementation
+- Automated and manual testing
+- Deployment and installation
+- Technical documentation
+
+Originally developed as my Computer Science capstone project at Northeastern State University.
+
+## Education & Professional Development
+
+**Bachelor of Science in Computer Science — cum laude**  
+Northeastern State University
+
+Currently pursuing professional development in:
+
+- Microsoft Azure AI
+- Generative AI and AI agents
+- AI project management
+- Enterprise agentic AI development
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mark-sarasua/) · [Website](https://www.code-logik.com/)
+
+---
+
+> *Embracing the focused pursuit of excellence through determined effort.*
