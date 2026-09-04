@@ -125,26 +125,41 @@ The project reflects my academic foundation in computer science before moving in
 
 My portfolio reflects an expanding technical scope:
 
-1. **Computer Science Foundations — Spring 2024**  
-   ACM Warrior Word Search
-
-2. **Software Engineering — 2024**  
-   The Willow Tree Order Management System
-
-3. **Network Infrastructure — November 2024**  
-   Network Infrastructure Modernization
-
-4. **Server Infrastructure — November 2024 to February 2025**  
-   Dedicated Server Room Buildout
-
-5. **Industrial Systems — July 2026**  
-   Modbus PLC Simulator
-
-6. **OT/ICS Cybersecurity — August 2026**  
-   Modbus-Aware Firewall
-
-7. **AI & Agentic Systems — September 2026 to Present**  
-   Enterprise AI Agent Portfolio
+```text
+Spring 2024
+│
+├── Computer Science Foundations
+│   └── ACM Warrior Word Search
+│
+2024 Graduation
+│
+├── Software Engineering
+│   └── The Willow Tree Order Management System
+│
+November 2024
+│
+├── Network Infrastructure
+│   └── Network Infrastructure Modernization
+│
+└── Server Infrastructure
+    └── Dedicated Server Room Buildout
+        └── First production server online — February 2025
+            │
+July 2026   ▼
+│
+├── Industrial Systems
+│   └── Modbus PLC Simulator
+│
+August 2026
+│
+├── OT/ICS Cybersecurity
+│   └── Modbus-Aware Firewall
+│
+September 2026 – Present
+│
+└── AI & Agentic Systems
+    └── Enterprise AI Agent Portfolio
+```
 
 The progression reflects a move from foundational computer science and software development into systems integration, network and server infrastructure, industrial technology, OT/ICS cybersecurity, and AI.
 
@@ -204,6 +219,5 @@ Public versions are intentionally sanitized to exclude proprietary source code, 
 
 ---
 
-**Portfolio:** https://www.code-logik.com  
 **LinkedIn:** https://www.linkedin.com/in/mark-sarasua  
 **Contact:** mark.sarasua@code-logik.com
