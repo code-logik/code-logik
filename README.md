@@ -4,7 +4,7 @@
 
 Systems Integration · Cloud & APIs · Infrastructure & Security · OT/ICS · AI & Agentic Systems
 
-I work across software development, systems integration, cloud services, network and server infrastructure, industrial technology, cybersecurity, and AI.
+I work across software development, systems integration, cloud services, network and server infrastructure, industrial technology, cybersecurity, technical documentation, and AI.
 
 My professional work includes application development, API and cloud integration, Linux and Windows systems, networking, industrial HMI/PLC environments, infrastructure modernization, and security-focused engineering projects.
 
@@ -56,6 +56,21 @@ The simulator provides a repeatable test environment for industrial communicatio
 
 **Focus:**  
 `Python` · `Modbus/TCP` · `PLC` · `HMI` · `Debian Linux` · `Industrial Automation`
+
+---
+
+## Hyspenser-1 IOM & Compressor Manual
+
+**August 2025 – December 2025**
+
+[View Project →](https://github.com/code-logik/hyspenser-1-technical-documentation)
+
+A cross-functional technical documentation project supporting the development and completion of the Hyspenser-1 IOM and Compressor Manual.
+
+I worked with multiple company employees, coordinated with an India-based documentation team responsible for assembling the manual, participated in revision and review cycles, and served as the **final editor on the completed document**.
+
+**Focus:**  
+`Technical Documentation` · `Technical Editing` · `Cross-Functional Collaboration` · `International Team Coordination` · `Revision Management` · `Quality Review`
 
 ---
 
@@ -145,7 +160,13 @@ November 2024
     └── Dedicated Server Room Buildout
         └── First production server online — February 2025
             │
-July 2026   ▼
+August–December 2025
+│
+├── Technical Documentation & Project Coordination
+│   └── Hyspenser-1 IOM & Compressor Manual
+│       └── Final editor
+│
+July 2026
 │
 ├── Industrial Systems
 │   └── Modbus PLC Simulator
@@ -161,7 +182,7 @@ September 2026 – Present
     └── Enterprise AI Agent Portfolio
 ```
 
-The progression reflects a move from foundational computer science and software development into systems integration, network and server infrastructure, industrial technology, OT/ICS cybersecurity, and AI.
+The progression reflects a move from foundational computer science and software development into systems integration, network and server infrastructure, technical documentation and project coordination, industrial technology, OT/ICS cybersecurity, and AI.
 
 ---
 
@@ -184,6 +205,10 @@ The technologies below represent tools, platforms, protocols, and languages I ha
 ## Industrial & OT
 
 `Modbus/TCP` · `PLC` · `HMI` · `Suricata` · `OT/ICS Security` · `Industrial Automation`
+
+## Technical Documentation & Coordination
+
+`Technical Documentation` · `Technical Editing` · `Revision Management` · `Cross-Functional Collaboration` · `International Team Coordination`
 
 ## Current AI Focus
 
@@ -208,6 +233,7 @@ I am continuing to expand my experience across:
 - Cloud and API integration
 - Network and server infrastructure
 - Software engineering and automation
+- Technical documentation and cross-functional project coordination
 
 ---
 
