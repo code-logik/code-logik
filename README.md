@@ -4,25 +4,15 @@
 
 Systems Integration · Cloud & APIs · Infrastructure & Security · OT/ICS · AI & Agentic Systems
 
-I work across software development, systems integration, cloud services,
-network infrastructure, industrial technology, and cybersecurity.
+I work across software development, systems integration, cloud services, network and server infrastructure, industrial technology, cybersecurity, and AI.
 
-My professional work includes application development, API and cloud integration,
-Linux and Windows systems, networking, industrial HMI/PLC environments,
-infrastructure modernization, and security-focused engineering projects.
+My professional work includes application development, API and cloud integration, Linux and Windows systems, networking, industrial HMI/PLC environments, infrastructure modernization, and security-focused engineering projects.
 
-This GitHub profile serves as a portfolio of selected academic, professional,
-infrastructure, cybersecurity, and AI projects.
+This GitHub profile serves as a portfolio of selected academic and professional projects, with current work presented first.
 
 ---
 
 # Featured Projects
-
-Projects are presented in reverse chronological order to reflect the progression
-of my work from academic software development into professional infrastructure,
-industrial systems, cybersecurity, and AI.
-
----
 
 ## Enterprise AI Agent Portfolio
 
@@ -30,17 +20,12 @@ industrial systems, cybersecurity, and AI.
 
 [View Project →](https://github.com/code-logik/enterprise-ai-agent-portfolio)
 
-An ongoing enterprise AI portfolio project focused on developing practical
-experience with AI applications, AI project management, and agentic systems.
+An ongoing enterprise AI portfolio project focused on building practical experience with AI applications, AI project management, and agentic systems.
 
-The project is being developed alongside a structured certification and
-professional-development path covering AI fundamentals, Microsoft Azure AI,
-Microsoft Foundry, AI agents, agentic application development, and AI project
-management.
+The project accompanies a structured certification and professional-development path covering AI fundamentals, Microsoft Azure AI, Microsoft Foundry, AI agents, agentic application development, and AI project management.
 
 **Focus:**  
-`Azure AI` · `Microsoft Foundry` · `AI Agents` · `Agentic AI` ·
-`AI Project Management`
+`Azure AI` · `Microsoft Foundry` · `AI Agents` · `Agentic AI` · `AI Project Management`
 
 ---
 
@@ -50,17 +35,12 @@ management.
 
 [View Project →](https://github.com/code-logik/modbus-aware-firewall)
 
-A protocol-aware OT/ICS firewall project designed to inspect Modbus/TCP
-communications, enforce industrial-network policy, and improve visibility
-between control-system components.
+A sanitized OT/ICS cybersecurity case study documenting a protocol-aware firewall designed to inspect Modbus/TCP communications, enforce industrial-network policy, and preserve legitimate control-system traffic.
 
-The project demonstrates the application of network-security principles within
-an industrial environment where protocol awareness, system availability, and
-operational reliability are critical.
+The project demonstrates inline industrial traffic inspection, protocol-aware enforcement, management-plane separation, system hardening, validation, and repeatable deployment concepts.
 
 **Focus:**  
-`OT/ICS Security` · `Modbus/TCP` · `Suricata` · `Linux` ·
-`Network Security` · `Industrial Cybersecurity`
+`OT/ICS Security` · `Modbus/TCP` · `Suricata` · `Debian Linux` · `Network Security` · `Industrial Cybersecurity`
 
 ---
 
@@ -70,17 +50,29 @@ operational reliability are critical.
 
 [View Project →](https://github.com/code-logik/modbus-plc-simulator)
 
-A Modbus/TCP simulation appliance designed to provide a controlled PLC endpoint
-for firewall testing, HMI integration, protocol analysis, and industrial-network
-experimentation.
+A reusable Modbus/TCP simulation appliance designed to provide a controlled PLC endpoint for HMI validation, firewall testing, protocol analysis, and industrial-network experimentation.
 
-The simulator provides a controlled environment for testing industrial
-communications and security concepts without requiring access to production
-PLC hardware.
+The simulator provides a repeatable test environment for industrial communications without requiring continuous access to production PLC hardware.
 
 **Focus:**  
-`Python` · `Modbus/TCP` · `PLC` · `HMI` · `Linux` ·
-`Industrial Automation`
+`Python` · `Modbus/TCP` · `PLC` · `HMI` · `Debian Linux` · `Industrial Automation`
+
+---
+
+## Dedicated Server Room Buildout
+
+**November 2024 – February 2025**
+
+[View Project →](https://github.com/code-logik/server-room-infrastructure-buildout)
+
+A workplace infrastructure project that transformed an unused office closet into a dedicated production server room.
+
+The buildout included room planning, dedicated environmental cooling, static-safe flooring, ESD and electrical preparation, full-height rack deployment, structured power and cabling, and installation of the first production server.
+
+The project moved from concept in November 2024 to the first server entering production use in February 2025.
+
+**Focus:**  
+`Server Infrastructure` · `Rack Infrastructure` · `Environmental Controls` · `ESD Mitigation` · `Structured Cabling` · `Systems Administration`
 
 ---
 
@@ -90,17 +82,12 @@ PLC hardware.
 
 [View Project →](https://github.com/code-logik/network-infrastructure-modernization)
 
-A workplace network-infrastructure modernization project that transformed an
-organically grown installation into a centralized, rack-based environment.
+A workplace network-infrastructure modernization project that transformed an organically grown installation into a centralized, rack-based environment.
 
-The project included equipment consolidation, rack deployment, Ethernet cable
-management, improved equipment accessibility, increased serviceability, and
-creation of a more maintainable physical foundation for the organization's
-network infrastructure.
+The project included equipment consolidation, rack deployment, Ethernet cable management, improved equipment accessibility, increased serviceability, and creation of a more maintainable physical foundation for the organization's network infrastructure.
 
 **Focus:**  
-`Network Infrastructure` · `Structured Cabling` · `Network Security` ·
-`Ethernet` · `SonicWall` · `Systems Administration`
+`Network Infrastructure` · `Structured Cabling` · `Network Security` · `Ethernet` · `SonicWall` · `Systems Administration`
 
 ---
 
@@ -110,16 +97,12 @@ network infrastructure.
 
 [View Project →](https://github.com/code-logik/the-willow-tree-oms)
 
-A C#/.NET order management system developed as my Computer Science graduation
-capstone project.
+A C#/.NET order management system developed as my Computer Science graduation capstone project.
 
-The project demonstrates a complete software-development lifecycle including
-requirements analysis, application architecture, database integration,
-implementation, testing, packaging, and deployment.
+The project demonstrates a complete software-development lifecycle including requirements analysis, application architecture, database integration, implementation, testing, packaging, and deployment.
 
 **Focus:**  
-`C#` · `.NET` · `SQL` · `Software Engineering` · `SDLC` ·
-`Testing` · `Application Deployment`
+`C#` · `.NET` · `SQL` · `Software Engineering` · `SDLC` · `Testing` · `Application Deployment`
 
 ---
 
@@ -129,17 +112,12 @@ implementation, testing, packaging, and deployment.
 
 [View Project →](https://github.com/code-logik/acm-warrior-word-search)
 
-A C# word-search application developed during my final undergraduate semester
-to demonstrate algorithm design, data structures, search logic, and application
-development.
+A C# word-search application developed during my final undergraduate semester to demonstrate algorithm design, data structures, search logic, and application development.
 
-The project reflects my academic foundation in computer science before moving
-into larger software engineering, infrastructure, systems integration, and
-security projects.
+The project reflects my academic foundation in computer science before moving into larger software engineering, infrastructure, systems integration, and security projects.
 
 **Focus:**  
-`C#` · `Algorithms` · `Data Structures` · `Search Algorithms` ·
-`Computer Science`
+`C#` · `Algorithms` · `Data Structures` · `Search Algorithms` · `Computer Science`
 
 ---
 
@@ -147,89 +125,85 @@ security projects.
 
 My portfolio reflects an expanding technical scope:
 
-```text
-2024
-│
-├── Algorithms & Data Structures
-│   └── ACM Warrior Word Search
-│
-├── Software Engineering
-│   └── The Willow Tree OMS
-│
-└── Network Infrastructure
-    └── Network Infrastructure Modernization
-        │
-2026    │
-│       ▼
-├── Industrial Systems
-│   └── Modbus PLC Simulator
-│
-├── OT / ICS Cybersecurity
-│   └── Modbus-Aware Firewall
-│
-└── AI & Agentic Systems
-    └── Enterprise AI Agent Portfolio
-```
-The progression reflects a move from foundational computer science and software
-development into systems integration, network infrastructure, industrial
-technology, OT/ICS cybersecurity, and AI.
+1. **Computer Science Foundations — Spring 2024**  
+   ACM Warrior Word Search
+
+2. **Software Engineering — 2024**  
+   The Willow Tree Order Management System
+
+3. **Network Infrastructure — November 2024**  
+   Network Infrastructure Modernization
+
+4. **Server Infrastructure — November 2024 to February 2025**  
+   Dedicated Server Room Buildout
+
+5. **Industrial Systems — July 2026**  
+   Modbus PLC Simulator
+
+6. **OT/ICS Cybersecurity — August 2026**  
+   Modbus-Aware Firewall
+
+7. **AI & Agentic Systems — September 2026 to Present**  
+   Enterprise AI Agent Portfolio
+
+The progression reflects a move from foundational computer science and software development into systems integration, network and server infrastructure, industrial technology, OT/ICS cybersecurity, and AI.
 
 ---
 
-## Technologies
+# Technologies
 
-### Languages & Development
+The technologies below represent tools, platforms, protocols, and languages I have worked with or am actively developing experience with.
+
+## Languages & Development
 
 `C#` · `.NET` · `Python` · `SQL` · `PowerShell` · `Bash`
 
-### Cloud & APIs
+## Cloud & APIs
 
 `AWS` · `Azure` · `REST APIs` · `MQTT` · `JSON` · `mTLS`
 
-### Systems & Infrastructure
+## Systems & Infrastructure
 
-`Linux` · `Windows` · `Git` · `GitHub` · `Networking` · `SonicWall` · `Structured Cabling`  
+`Linux` · `Windows` · `Git` · `GitHub` · `Networking` · `Server Infrastructure` · `Rack Infrastructure` · `SonicWall` · `Structured Cabling`
 
-### Industrial & OT
+## Industrial & OT
 
 `Modbus/TCP` · `PLC` · `HMI` · `Suricata` · `OT/ICS Security` · `Industrial Automation`
 
-### Current AI Focus
+## Current AI Focus
 
 `Azure AI` · `Microsoft Foundry` · `AI Agents` · `Agentic AI` · `AI Project Management`
 
 ---
 
-## Education
+# Education
 
 **Bachelor of Science in Computer Science**  
 Northeastern State University  
-*Cum Laude - 2024*
+*Cum Laude — 2024*
 
 ---
 
-## Current Focus
+# Current Focus
 
 I am continuing to expand my experience across:
 
 - AI and agentic application development
 - OT/ICS and industrial cybersecurity
 - Cloud and API integration
-- Network and systems infrastructure
+- Network and server infrastructure
 - Software engineering and automation
 
 ---
 
-## Portfolio Note
+# Portfolio Note
 
-Some projects in this portfolio are based on professional work or real-world
-engineering problems.  
+Some projects in this portfolio are based on professional work or real-world engineering problems.
 
-Public versions are intentionally sanitized to exclude
-proprietary source code, credentials, production addressing, customer data,
-and other confidential information.
+Public versions are intentionally sanitized to exclude proprietary source code, credentials, production addressing, customer data, internal security details, and other confidential information.
 
 ---
 
-**Portfolio:** www.code-logik.com  
+**Portfolio:** https://www.code-logik.com  
+**LinkedIn:** https://www.linkedin.com/in/mark-sarasua  
 **Contact:** mark.sarasua@code-logik.com
