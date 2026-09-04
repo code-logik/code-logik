@@ -74,6 +74,21 @@ I worked with multiple company employees, coordinated with an India-based docume
 
 ---
 
+## Hyspenser-1 HMI
+
+**December 2024 – June 2025**
+
+[View Project →](https://github.com/code-logik/hyspenser-1-hmi)
+
+A software and industrial-systems integration project that replaced a legacy hydrogen fueling-station interface with a new C# WPF HMI and carried it from early requirements through testbench validation, PLC/Modbus integration, commissioning, project recovery, and the first production deployment.
+
+During the final delivery phase, I assumed project responsibility, recruited additional PLC programming support through my professional network, and coordinated the remaining software, controls, and commissioning work required to achieve a functional customer handoff.
+
+**Focus:**  
+`C#` · `WPF` · `.NET Framework` · `HMI Development` · `Modbus/TCP` · `PLC Integration` · `Industrial Automation` · `Commissioning` · `Project Management`
+
+---
+
 ## Dedicated Server Room Buildout
 
 **November 2024 – February 2025**
@@ -156,10 +171,16 @@ November 2024
 ├── Network Infrastructure
 │   └── Network Infrastructure Modernization
 │
-└── Server Infrastructure
-    └── Dedicated Server Room Buildout
-        └── First production server online — February 2025
-            │
+├── Server Infrastructure
+│   └── Dedicated Server Room Buildout
+│       └── First production server online — February 2025
+│
+December 2024 – June 2025
+│
+├── HMI Software & Industrial Systems Integration
+│   └── Hyspenser-1 HMI
+│       └── First production deployment — June 2025
+│
 August–December 2025
 │
 ├── Technical Documentation & Project Coordination
@@ -182,7 +203,7 @@ September 2026 – Present
     └── Enterprise AI Agent Portfolio
 ```
 
-The progression reflects a move from foundational computer science and software development into systems integration, network and server infrastructure, technical documentation and project coordination, industrial technology, OT/ICS cybersecurity, and AI.
+The progression reflects a move from foundational computer science and software development into network and server infrastructure, HMI software and industrial systems integration, technical documentation and project coordination, OT/ICS cybersecurity, and AI.
 
 ---
 
@@ -192,7 +213,7 @@ The technologies below represent tools, platforms, protocols, and languages I ha
 
 ## Languages & Development
 
-`C#` · `.NET` · `Python` · `SQL` · `PowerShell` · `Bash`
+`C#` · `.NET` · `.NET Framework` · `WPF` · `Python` · `SQL` · `PowerShell` · `Bash`
 
 ## Cloud & APIs
 
@@ -204,11 +225,11 @@ The technologies below represent tools, platforms, protocols, and languages I ha
 
 ## Industrial & OT
 
-`Modbus/TCP` · `PLC` · `HMI` · `Suricata` · `OT/ICS Security` · `Industrial Automation`
+`Modbus/TCP` · `PLC` · `HMI` · `PLC Integration` · `Commissioning` · `Suricata` · `OT/ICS Security` · `Industrial Automation`
 
-## Technical Documentation & Coordination
+## Project Leadership & Documentation
 
-`Technical Documentation` · `Technical Editing` · `Revision Management` · `Cross-Functional Collaboration` · `International Team Coordination`
+`Project Management` · `Technical Leadership` · `Cross-Functional Coordination` · `International Team Coordination` · `Technical Documentation` · `Technical Editing` · `Revision Management`
 
 ## Current AI Focus
 
@@ -233,7 +254,7 @@ I am continuing to expand my experience across:
 - Cloud and API integration
 - Network and server infrastructure
 - Software engineering and automation
-- Technical documentation and cross-functional project coordination
+- Technical leadership, project coordination, and documentation
 
 ---
 
