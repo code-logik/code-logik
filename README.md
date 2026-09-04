@@ -1,26 +1,182 @@
 # Mark Sarasua, Jr.
 
-### Software Engineer · IT Specialist · Systems Integration
+**Software Engineer / IT Specialist**
 
-I build and support software and infrastructure that connect applications, cloud services, networks, APIs, databases, and industrial systems.
+Systems Integration · Cloud & APIs · Infrastructure & Security · OT/ICS · AI & Agentic Systems
 
-My work spans software engineering, systems administration, cloud and API integration, networking, cybersecurity, automation, and edge computing. I am particularly interested in solving problems that sit between software and infrastructure, especially where reliable applications have to communicate securely with real-world systems.  
+I work across software development, systems integration, cloud services,
+network infrastructure, industrial technology, and cybersecurity.
 
-## Current Focus
+My professional work includes application development, API and cloud integration,
+Linux and Windows systems, networking, industrial HMI/PLC environments,
+infrastructure modernization, and security-focused engineering projects.
 
-- Artificial intelligence and agentic AI development
-- Enterprise AI integration and automation
-- API and cloud architecture
-- Software engineering and systems integration
-- Linux and Windows infrastructure
-- Networking and security
-- Edge and industrial computing
+This GitHub profile serves as a portfolio of selected academic, professional,
+infrastructure, cybersecurity, and AI projects.
 
-I am currently expanding my AI engineering capabilities through Microsoft and PMI certification paths covering AI fundamentals, AI project management, generative AI, and AI agents.
+---
 
-## Technologies & Tools  
+# Featured Projects
 
-These are technologies I currently work with, have practical exposure to, or am actively developing my skills in through professional projects, labs, and independent learning.  
+Projects are presented in reverse chronological order to reflect the progression
+of my work from academic software development into professional infrastructure,
+industrial systems, cybersecurity, and AI.
+
+---
+
+## Enterprise AI Agent Portfolio
+
+**September 2026 – Present**
+
+[View Project →](https://github.com/code-logik/enterprise-ai-agent-portfolio)
+
+An ongoing enterprise AI portfolio project focused on developing practical
+experience with AI applications, AI project management, and agentic systems.
+
+The project is being developed alongside a structured certification and
+professional-development path covering AI fundamentals, Microsoft Azure AI,
+Microsoft Foundry, AI agents, agentic application development, and AI project
+management.
+
+**Focus:**  
+`Azure AI` · `Microsoft Foundry` · `AI Agents` · `Agentic AI` ·
+`AI Project Management`
+
+---
+
+## Modbus-Aware Firewall
+
+**August 2026**
+
+[View Project →](https://github.com/code-logik/modbus-aware-firewall)
+
+A protocol-aware OT/ICS firewall project designed to inspect Modbus/TCP
+communications, enforce industrial-network policy, and improve visibility
+between control-system components.
+
+The project demonstrates the application of network-security principles within
+an industrial environment where protocol awareness, system availability, and
+operational reliability are critical.
+
+**Focus:**  
+`OT/ICS Security` · `Modbus/TCP` · `Suricata` · `Linux` ·
+`Network Security` · `Industrial Cybersecurity`
+
+---
+
+## Modbus PLC Simulator
+
+**July 2026**
+
+[View Project →](https://github.com/code-logik/modbus-plc-simulator)
+
+A Modbus/TCP simulation appliance designed to provide a controlled PLC endpoint
+for firewall testing, HMI integration, protocol analysis, and industrial-network
+experimentation.
+
+The simulator provides a controlled environment for testing industrial
+communications and security concepts without requiring access to production
+PLC hardware.
+
+**Focus:**  
+`Python` · `Modbus/TCP` · `PLC` · `HMI` · `Linux` ·
+`Industrial Automation`
+
+---
+
+## Network Infrastructure Modernization
+
+**November 2024**
+
+[View Project →](https://github.com/code-logik/network-infrastructure-modernization)
+
+A workplace network-infrastructure modernization project that transformed an
+organically grown installation into a centralized, rack-based environment.
+
+The project included equipment consolidation, rack deployment, Ethernet cable
+management, improved equipment accessibility, increased serviceability, and
+creation of a more maintainable physical foundation for the organization's
+network infrastructure.
+
+**Focus:**  
+`Network Infrastructure` · `Structured Cabling` · `Network Security` ·
+`Ethernet` · `SonicWall` · `Systems Administration`
+
+---
+
+## The Willow Tree Order Management System
+
+**2024 — Graduation Capstone**
+
+[View Project →](https://github.com/code-logik/the-willow-tree-oms)
+
+A C#/.NET order management system developed as my Computer Science graduation
+capstone project.
+
+The project demonstrates a complete software-development lifecycle including
+requirements analysis, application architecture, database integration,
+implementation, testing, packaging, and deployment.
+
+**Focus:**  
+`C#` · `.NET` · `SQL` · `Software Engineering` · `SDLC` ·
+`Testing` · `Application Deployment`
+
+---
+
+## ACM Warrior Word Search
+
+**Spring 2024**
+
+[View Project →](https://github.com/code-logik/acm-warrior-word-search)
+
+A C# word-search application developed during my final undergraduate semester
+to demonstrate algorithm design, data structures, search logic, and application
+development.
+
+The project reflects my academic foundation in computer science before moving
+into larger software engineering, infrastructure, systems integration, and
+security projects.
+
+**Focus:**  
+`C#` · `Algorithms` · `Data Structures` · `Search Algorithms` ·
+`Computer Science`
+
+---
+
+# Professional Progression
+
+My portfolio reflects an expanding technical scope:
+
+```text
+2024
+│
+├── Algorithms & Data Structures
+│   └── ACM Warrior Word Search
+│
+├── Software Engineering
+│   └── The Willow Tree OMS
+│
+└── Network Infrastructure
+    └── Network Infrastructure Modernization
+        │
+2026    │
+│       ▼
+├── Industrial Systems
+│   └── Modbus PLC Simulator
+│
+├── OT / ICS Cybersecurity
+│   └── Modbus-Aware Firewall
+│
+└── AI & Agentic Systems
+    └── Enterprise AI Agent Portfolio
+```
+The progression reflects a move from foundational computer science and software
+development into systems integration, network infrastructure, industrial
+technology, OT/ICS cybersecurity, and AI.
+
+---
+
+## Technologies
 
 ### Languages & Development
 
@@ -32,100 +188,48 @@ These are technologies I currently work with, have practical exposure to, or am 
 
 ### Systems & Infrastructure
 
-`Linux` · `Windows` · `NGINX` · `PostgreSQL` · `Git`
+`Linux` · `Windows` · `Git` · `GitHub` · `Networking` · `SonicWall` · `Structured Cabling`  
 
-### Networking & Security
+### Industrial & OT
 
-`TCP/IP` · `Firewalls` · `VPN` · `SSH` · `TLS/mTLS` · `Network Segmentation`
+`Modbus/TCP` · `PLC` · `HMI` · `Suricata` · `OT/ICS Security` · `Industrial Automation`
 
-### AI & Agentic Systems
+### Current AI Focus
 
-`Microsoft Foundry` · `Generative AI` · `RAG` · `AI Agents` · `Tool Calling` · `MCP`
-
-## Selected Work
-
-### Modbus Aware Firewall
-
-A field-oriented OT cybersecurity appliance designed to sit inline between a Modbus master/customer network and an industrial router/PLC network.
-
-The system uses Debian 13 and Suricata 7 in AF_PACKET inline IPS mode to inspect Modbus/TCP traffic at the application-protocol level. Normal Modbus reads remain available while unauthorized write operations are blocked before reaching the protected PLC.
-
-Key engineering areas include:
-
-- OT/ICS cybersecurity
-- Protocol-aware Modbus/TCP inspection
-- Suricata inline IPS
-- Transparent Layer 2 enforcement
-- WAN-only SSH management
-- Network isolation and overlapping addressing
-- Reproducible Bash deployment
-- BIOS, GRUB, console, and physical-interface hardening
-- Validation of read forwarding and write blocking
-
-The project was developed as a reusable industrial security appliance rather than a lab-only firewall configuration.
-
-### Modbus PLC Simulator
-
-A reusable Debian-based Modbus/TCP PLC simulator designed for OT/ICS firewall testing, HMI validation, and industrial-network troubleshooting without requiring continuous access to production PLC hardware.
-
-The Python/PyModbus application imports a production-derived MAPware register model and provides configurable process behaviors, repeatable scenarios, genuine Modbus transaction logging, and a fullscreen Tkinter operator interface.
-
-Key engineering areas include:
-
-- Python and PyModbus
-- Modbus/TCP server implementation
-- PLC register and coil modeling
-- Simulation scenarios and dynamic process values
-- Tkinter/X11 appliance interface
-- JSON-based configuration
-- Systemd service supervision
-- Linux networking and packet inspection
-- Reproducible installation and upgrades
-- Runtime observability and test validation
-
-The simulator was built as a reusable test appliance and serves as a repeatable foundation for firewall, HMI, and industrial-network validation.
-
-### Enterprise AI Agent
-
-**In development**
-
-An enterprise-focused AI agent portfolio project incorporating grounded knowledge retrieval, external tools and APIs, authentication, authorization, audit logging, evaluation, guardrails, human approval workflows, and multi-agent orchestration.
-
-This project is being developed alongside my Microsoft AI and PMI AI project-management certification work.
-
-### The Willow Tree OMS
-
-A complete C#/.NET order-management system developed through the full software development lifecycle.
-
-The project includes:
-
-- Requirements engineering
-- Risk management
-- UML and system modeling
-- Agile development
-- C#/.NET implementation
-- Automated and manual testing
-- Deployment and installation
-- Technical documentation
-
-Originally developed as my Computer Science capstone project at Northeastern State University.
-
-## Education & Professional Development
-
-**Bachelor of Science in Computer Science — cum laude**  
-Northeastern State University
-
-Currently pursuing professional development in:
-
-- Microsoft Azure AI
-- Generative AI and AI agents
-- AI project management
-- Enterprise agentic AI development
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/mark-sarasua/) · [Website](https://www.code-logik.com/)
+`Azure AI` · `Microsoft Foundry` · `AI Agents` · `Agentic AI` · `AI Project Management`
 
 ---
 
-> *Embracing the focused pursuit of excellence through determined effort.*
+## Education
+
+**Bachelor of Science in Computer Science**  
+Northeastern State University  
+*Cum Laude - 2024*
+
+---
+
+## Current Focus
+
+I am continuing to expand my experience across:
+
+- AI and agentic application development
+- OT/ICS and industrial cybersecurity
+- Cloud and API integration
+- Network and systems infrastructure
+- Software engineering and automation
+
+---
+
+## Portfolio Note
+
+Some projects in this portfolio are based on professional work or real-world
+engineering problems.  
+
+Public versions are intentionally sanitized to exclude
+proprietary source code, credentials, production addressing, customer data,
+and other confidential information.
+
+---
+
+**Portfolio:** www.code-logik.com  
+**Contact:** mark.sarasua@code-logik.com
