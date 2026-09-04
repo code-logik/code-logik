@@ -44,6 +44,47 @@ These are technologies I currently work with, have practical exposure to, or am 
 
 ## Selected Work
 
+### Modbus Aware Firewall
+
+A field-oriented OT cybersecurity appliance designed to sit inline between a Modbus master/customer network and an industrial router/PLC network.
+
+The system uses Debian 13 and Suricata 7 in AF_PACKET inline IPS mode to inspect Modbus/TCP traffic at the application-protocol level. Normal Modbus reads remain available while unauthorized write operations are blocked before reaching the protected PLC.
+
+Key engineering areas include:
+
+- OT/ICS cybersecurity
+- Protocol-aware Modbus/TCP inspection
+- Suricata inline IPS
+- Transparent Layer 2 enforcement
+- WAN-only SSH management
+- Network isolation and overlapping addressing
+- Reproducible Bash deployment
+- BIOS, GRUB, console, and physical-interface hardening
+- Validation of read forwarding and write blocking
+
+The project was developed as a reusable industrial security appliance rather than a lab-only firewall configuration.
+
+### Modbus PLC Simulator
+
+A reusable Debian-based Modbus/TCP PLC simulator designed for OT/ICS firewall testing, HMI validation, and industrial-network troubleshooting without requiring continuous access to production PLC hardware.
+
+The Python/PyModbus application imports a production-derived MAPware register model and provides configurable process behaviors, repeatable scenarios, genuine Modbus transaction logging, and a fullscreen Tkinter operator interface.
+
+Key engineering areas include:
+
+- Python and PyModbus
+- Modbus/TCP server implementation
+- PLC register and coil modeling
+- Simulation scenarios and dynamic process values
+- Tkinter/X11 appliance interface
+- JSON-based configuration
+- Systemd service supervision
+- Linux networking and packet inspection
+- Reproducible installation and upgrades
+- Runtime observability and test validation
+
+The simulator was built as a reusable test appliance and serves as a repeatable foundation for firewall, HMI, and industrial-network validation.
+
 ### Enterprise AI Agent
 
 **In development**
