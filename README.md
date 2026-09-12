@@ -14,7 +14,7 @@ This GitHub profile serves as a portfolio of selected academic and professional 
 
 # Featured Projects
 
-## Secure Enterprise AI Agent Portfolio
+## Secure Enterprise AI Assistant
 
 **September 2026 – Present**
 
